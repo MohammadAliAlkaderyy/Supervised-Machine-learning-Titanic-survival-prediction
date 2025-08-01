@@ -134,17 +134,28 @@ The goal of this project is to:
   - Accuracy
   - Precision
   - Recall
-  - Confusion matrix (visualized using heatmaps)
+  - Confusion matrix (visualized using heatmaps for Logistic Regrission:)
+    
 
     <img width="227" height="75" alt="image" src="https://github.com/user-attachments/assets/c9e21d90-2f25-4c15-a282-0069099f1766" />
 
+    
 <img width="574" height="472" alt="image" src="https://github.com/user-attachments/assets/026e7516-324c-41f1-b5f2-5a144840e2e2" />
 
 
+- Confusion matrix (visualized using heatmaps for RandomForest:)
 
-<img width="249" height="85" alt="image" src="https://github.com/user-attachments/assets/66314b20-4871-4419-a3fa-8bf654d55378" />
+  
+    <img width="265" height="100" alt="image" src="https://github.com/user-attachments/assets/66314b20-4871-4419-a3fa-8bf654d55378" />
 
+ 
 <img width="575" height="491" alt="image" src="https://github.com/user-attachments/assets/b3312838-e808-47d7-a01a-436adda8a23f" />
+
+
+
+
+
+
 
 
 ---
